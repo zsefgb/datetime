@@ -1,0 +1,20 @@
+{
+    "type": "module",
+    "name": "datetime",
+    "version": "1.0.0",
+    "description": "",
+    "main": "datetime.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://mynameishomin@github.com/zsefgb/datetime.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zsefgb/datetime/issues"
+    },
+    "homepage": "https://github.com/zsefgb/datetime#readme"
+}
