@@ -1,5 +1,5 @@
 export default function timeConverter(from, to, time) {
-    var ms;
+    let ms;
     switch (from) {
         case "ms":
             ms = time;
@@ -31,5 +31,3 @@ export default function timeConverter(from, to, time) {
             return ms / 24 / 60 / 60 / 1000;
     }
 }
-
-console.log(timeConverter("h", "s", 1));
